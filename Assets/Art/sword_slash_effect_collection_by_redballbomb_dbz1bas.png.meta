@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: a98e277c6facc9347a47ba74c6fdb8f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4730787217670186526
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_0
+  - first:
+      213: -528920923838576798
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_1
+  - first:
+      213: 6331618980526611763
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_2
+  - first:
+      213: 4942938273957974831
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_3
+  - first:
+      213: -3308811179606163089
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_4
+  - first:
+      213: 4346587443281849952
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_5
+  - first:
+      213: 7124230090222185779
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_6
+  - first:
+      213: -4060746346577941941
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_7
+  - first:
+      213: -1380532022408702171
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_8
+  - first:
+      213: -804168864361213627
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_9
+  - first:
+      213: -5712543403625672182
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_10
+  - first:
+      213: -3589793089864445772
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_11
+  - first:
+      213: 1769033566243290024
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_12
+  - first:
+      213: -1955602002367660625
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_13
+  - first:
+      213: -2755362289423897606
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_14
+  - first:
+      213: 7158216641158770990
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_15
+  - first:
+      213: 1102322279208918323
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_16
+  - first:
+      213: -134731743859516889
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_17
+  - first:
+      213: 5145890082277386725
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_18
+  - first:
+      213: -1139402289612520985
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_19
+  - first:
+      213: 9123193590237419640
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_20
+  - first:
+      213: -2110298404656936995
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_21
+  - first:
+      213: 8232843873207404010
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_22
+  - first:
+      213: -981333477288705567
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_23
+  - first:
+      213: -2226205793583238982
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_24
+  - first:
+      213: 4356812159350041711
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_25
+  - first:
+      213: -1469061097133167964
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_26
+  - first:
+      213: -1234245830809059008
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_27
+  - first:
+      213: 127686621978216142
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_28
+  - first:
+      213: -4744713753761729131
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_29
+  - first:
+      213: 4753902402952918119
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_30
+  - first:
+      213: 1635853533348274661
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_31
+  - first:
+      213: 798872499377762146
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_32
+  - first:
+      213: -8385226835217199994
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_33
+  - first:
+      213: 2601304252362096815
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_34
+  - first:
+      213: -5157251153250273825
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_35
+  - first:
+      213: -8908974916526389552
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_36
+  - first:
+      213: 2167201972225037725
+    second: sword_slash_effect_collection_by_redballbomb_dbz1bas_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 754
+        width: 188
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e95fce171ed85eb0800000000000000
+      internalID: -4730787217670186526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 755
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267845cd835e8a8f0800000000000000
+      internalID: -528920923838576798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 756
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dd86b9aed6ed750800000000000000
+      internalID: 6331618980526611763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_3
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 770
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2392fddb28d89440800000000000000
+      internalID: 4942938273957974831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 773
+        width: 134
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61cbb253cdb412d0800000000000000
+      internalID: -3308811179606163089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 583
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eecfd104e225c30800000000000000
+      internalID: 4346587443281849952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 609
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33da7d175895ed260800000000000000
+      internalID: 7124230090222185779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 606
+        width: 159
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa14966b455a7c0800000000000000
+      internalID: -4060746346577941941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 603
+        width: 153
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5271743a07d57dce0800000000000000
+      internalID: -1380532022408702171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 596
+        width: 141
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5411254bda407d4f0800000000000000
+      internalID: -804168864361213627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 402
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0214ee6a08f8b0b0800000000000000
+      internalID: -5712543403625672182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 419
+        width: 128
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b05a7d443e7e2ec0800000000000000
+      internalID: -3589793089864445772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_12
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 417
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7cafd7aedc8810800000000000000
+      internalID: 1769033566243290024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 419
+        width: 129
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad35de075e4cd4e0800000000000000
+      internalID: -1955602002367660625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_14
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 417
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba167a89cf2c9d0800000000000000
+      internalID: -2755362289423897606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 408
+        width: 130
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21fe89fb18175360800000000000000
+      internalID: 7158216641158770990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_16
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 399
+        width: 129
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d1f38c54c3c4f00800000000000000
+      internalID: 1102322279208918323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 414
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad84b5136512ef0800000000000000
+      internalID: -134731743859516889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_18
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 414
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9695704cfd96740800000000000000
+      internalID: 5145890082277386725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 202
+        width: 130
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1016787a70030f0800000000000000
+      internalID: -1139402289612520985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 187
+        width: 136
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878d83bcb381c9e70800000000000000
+      internalID: 9123193590237419640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 192
+        width: 134
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7895428c6b6b2e0800000000000000
+      internalID: -2110298404656936995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 195
+        width: 137
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae547c912efe04270800000000000000
+      internalID: 8232843873207404010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_23
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 196
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e10208d66a9162f0800000000000000
+      internalID: -981333477288705567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 152
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0fd8c20adea11e0800000000000000
+      internalID: -2226205793583238982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c69275391867c30800000000000000
+      internalID: 4356812159350041711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 43
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa280037b8dc9be0800000000000000
+      internalID: -1469061097133167964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 35
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0418e19c4f31fdee0800000000000000
+      internalID: -1234245830809059008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_28
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 57
+        width: 136
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c4916e42a5c100800000000000000
+      internalID: 127686621978216142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_29
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 50
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5953f12caf3672eb0800000000000000
+      internalID: -4744713753761729131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_30
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 46
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76472e85c0149f140800000000000000
+      internalID: 4753902402952918119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_31
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 47
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1aac71f18b3b610800000000000000
+      internalID: 1635853533348274661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 39
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f6d3a3e4a261b00800000000000000
+      internalID: 798872499377762146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_33
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 33
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c4ec5ce90b1ab80800000000000000
+      internalID: -8385226835217199994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_34
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 39
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa081ca6f60b91420800000000000000
+      internalID: 2601304252362096815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_35
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 33
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd53b018663cd68b0800000000000000
+      internalID: -5157251153250273825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 30
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d64493e386fc5480800000000000000
+      internalID: -8908974916526389552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_slash_effect_collection_by_redballbomb_dbz1bas_37
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 30
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95dffe16b2731e10800000000000000
+      internalID: 2167201972225037725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
